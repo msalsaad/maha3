@@ -1,4 +1,4 @@
-# Hamilton <!-- omit in toc -->
+# maha <!-- omit in toc -->
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.
 
