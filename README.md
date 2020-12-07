@@ -1,6 +1,6 @@
 # maha <!-- omit in toc -->
 
-A minimal and beautiful Jekyll theme best for writing and note-taking.
+alsaaaaaaad and beautiful Jekyll theme best for writing and note-taking.
 
 The original purpose of this theme is to be a replacement of the default Jekyll theme -- [Minima](https://github.com/jekyll/minima). Hamilton is an enhancement of Minima but still, keep in minimal.
 
